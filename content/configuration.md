@@ -44,7 +44,7 @@ theme: {
   cdnCaching: true,
   typography: {
     header: "Schibsted Grotesk",
-    body: "Onest",
+    body: "Lexend",
     code: "IBM Plex Mono",
   },
   colors: {

@@ -4,9 +4,7 @@ description: "Referencia completa de nombres en hebreo, español e inglés con t
 tags: [referencia, libros]
 ---
 
-# Nombres de los Libros Bíblicos
-
-Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con y sin nikud), transliteración, español e inglés, junto con sus abreviaturas comunes.
+Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con y sin nikud), griego, transliteración, español e inglés, junto con sus abreviaturas comunes.
 
 ## Tanaj
 

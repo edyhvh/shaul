@@ -1,36 +1,21 @@
 ---
-title: Shaul - Comentario Bíblico Personal
+title: Inicio
 ---
 
-Bienvenido a **Shaul**, mi comentario bíblico personal vivo. Aquí comparto mis reflexiones, estudios y meditaciones sobre las Escrituras, desde Génesis hasta Apocalipsis.
+Podemos ver en las cartas el enviado **Shaul**, también conocido como Pablo, como explicaba las escrituras mediante el Ruaj, tal como lo hacía quien es la Palabra misma (Yeshúa), aqui vamos a intentar recopilar explicaciones y comentarios, no de mi persona sino de hombres de Elohim que han sido capacitados para enseñar al pueblo sobre las escrituras.
 
-## 📖 Acerca de Shaul
+## Por qué creé este proyecto?
 
-Este sitio es un jardín digital donde cultivo mis pensamientos sobre la Palabra de Dios. Escribo en español, usando una transliteración simplificada del hebreo para los nombres de los libros sagrados.
+- Mi biblia física tiene espacio limitado para anotaciones y expansiones.
+- Mis notas en papel no se pueden editar.
+- Necesito un espacio digital para ordenar los comentarios.
+- Necesito organizar el entendimiento que estamos recibiendo de Elohim.
+- Esta plataforma respalda mis notas físicas.
 
-### Estructura del Contenido
+## Objetivo principal del proyecto
 
-- **Comentarios por versículo**: Análisis detallados de pasajes específicos
-- **Estudios temáticos**: Exploraciones profundas de temas bíblicos
-- **Reflexiones personales**: Mis pensamientos y aplicaciones prácticas
+El objetivo de Shaul, el apóstol, era conocer y enseñar a otros quien es el Mesías y por lo tanto vamos a intentar acercarnos a entender como pensaba no sólo él sino los otros apóstoles acerca de las escrituras, para que luego si Elohim lo permite en nuestro caminar, podamos incluso hacer drash (דְּרַשׁ) del mismo modo que ellos lo hacían, siempre intentando tener la mirada fija en YESHUA HA'MASHIAJ nuestro señor y salvador.
 
-### Navegación
+**SHALOM**
 
-Utiliza los wikilinks para explorar conexiones entre ideas. La búsqueda full-text te permite encontrar cualquier referencia o concepto rápidamente.
 
-## 🛠️ Flujo de Trabajo
-
-- Creo notas Markdown simples en `/content/`
-- Enlazo con `[[bereshit 1:1]]` o `[[nueva-alianza]]`
-- Obsidian Git hace commit automático cada 5 minutos
-- Vercel despliega automáticamente
-
-## 🌐 Características
-
-- **Búsqueda instantánea** en todo el contenido
-- **Backlinks** para ver conexiones entre notas
-- **Grafo de conexiones** visual
-- **Modo oscuro/claro** automático
-- **Diseño académico** con fuentes legibles
-
-Explora el contenido usando el explorador lateral o la búsqueda. ¡Que el Espíritu Santo te guíe en tu lectura!

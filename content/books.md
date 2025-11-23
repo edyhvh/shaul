@@ -14,11 +14,11 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 
 | Hebreo Sin Nikud | Hebreo Con Nikud | Transliteración | Griego | Transliteración Griega | Español | Inglés | Abreviaturas |
 |------------------|------------------|-----------------|--------|-------------------------|---------|--------|--------------|
-| בראשית | בְּרֵאשִׁית | bereshit | Γένεσις | Génesis | Génesis | Genesis | Gn, Gen, Gén |
-| שמות | שְׁמוֹת | shemot | Ἔξοδος | Éxodos | Éxodo | Exodus | Ex, Éx, Exo |
-| ויקרא | וַיִּקְרָא | vaikra | Λευιτικόν | Levítico | Levítico | Leviticus | Lv, Lev, Levítico |
-| במדבר | בְּמִדְבַּר | bemidbar | Ἀριθμοί | Números | Números | Numbers | Nm, Núm, Num |
-| דברים | דְּבָרִים | devarim | Δευτερονόμιον | Deuteronomio | Deuteronomio | Deuteronomy | Dt, Deut, Deuteronomio |
+| בראשית | בְּרֵאשִׁית | bereshit | Γένεσις | Genesis | Génesis | Genesis | Gn, Gen, Gén |
+| שמות | שְׁמוֹת | shemot | Ἔξοδος | Exodos | Éxodo | Exodus | Ex, Éx, Exo |
+| ויקרא | וַיִּקְרָא | vaikra | Λευιτικόν | Leuitikon | Levítico | Leviticus | Lv, Lev, Levítico |
+| במדבר | בְּמִדְבַּר | bamidbar | Ἀριθμοί | Arithmoi | Números | Numbers | Nm, Núm, Num |
+| דברים | דְּבָרִים | devarim | Δευτερονόμιον | Deuteronomion | Deuteronomio | Deuteronomy | Dt, Deut, Deuteronomio |
 
 ### Nevi'im (Profetas)
 
@@ -26,32 +26,32 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 
 | Hebreo Sin Nikud | Hebreo Con Nikud | Transliteración | Griego | Transliteración Griega | Español | Inglés | Abreviaturas |
 |------------------|------------------|-----------------|--------|-------------------------|---------|--------|--------------|
-| יהושע | יְהוֹשֻׁעַ | iehoshúa | Ἰησοῦς Ναυή | Josué Navé | Josué | Joshua | Jos, Josué |
-| שופטים | שֹׁפְטִים | shoftim | Κριταί | Jutás | Jueces | Judges | Jue, Jdg, Jueces |
-| שמואל א | שְׁמוּאֵל א | shemu'el alef | Βασιλειῶν Αʹ | Basileón 1 | 1 Samuel | 1 Samuel | 1 Sam, 1 Samuel |
-| שמואל ב | שְׁמוּאֵל ב | shemu'el bet | Βασιλειῶν Βʹ | Basileón 2 | 2 Samuel | 2 Samuel | 2 Sam, 2 Samuel |
-| מלכים א | מְלָכִים א | melajim alef | Βασιλειῶν Γʹ | Basileón 3 | 1 Reyes | 1 Kings | 1 Re, 1 Reyes |
-| מלכים ב | מְלָכִים ב | melajim bet | Βασιλειῶν Δʹ | Basileón 4 | 2 Reyes | 2 Kings | 2 Re, 2 Reyes |
+| יהושע | יְהוֹשֻׁעַ | iehoshúa | Ἰησοῦς Ναυή | Iēsous Nauē | Josué | Joshua | Jos, Josué |
+| שופטים | שֹׁפְטִים | shoftim | Κριταί | Kritai | Jueces | Judges | Jue, Jdg, Jueces |
+| שמואל א | שְׁמוּאֵל א | shemu'el alef | Βασιλειῶν Αʹ | Basileiōn A | 1 Samuel | 1 Samuel | 1 Sam, 1 Samuel |
+| שמואל ב | שְׁמוּאֵל ב | shemu'el bet | Βασιλειῶν Βʹ | Basileiōn B | 2 Samuel | 2 Samuel | 2 Sam, 2 Samuel |
+| מלכים א | מְלָכִים א | melajim alef | Βασιλειῶν Γʹ | Basileiōn G | 1 Reyes | 1 Kings | 1 Re, 1 Reyes |
+| מלכים ב | מְלָכִים ב | melajim bet | Βασιλειῶν Δʹ | Basileiōn D | 2 Reyes | 2 Kings | 2 Re, 2 Reyes |
 
 #### Profetas Posteriores
 
 | Hebreo Sin Nikud | Hebreo Con Nikud | Transliteración | Griego | Transliteración Griega | Español | Inglés | Abreviaturas |
 |------------------|------------------|-----------------|--------|-------------------------|---------|--------|--------------|
-| ישעיהו | יְשַׁעְיָהוּ | ieshaiahu | Ἠσαΐας | Isaías | Isaías | Isaiah | Is, Isa, Isaías |
-| ירמיהו | יִרְמְיָהוּ | irmeiahu | Ἰερεμίας | Jeremías | Jeremías | Jeremiah | Jr, Jer, Jeremías |
-| יחזקאל | יְחֶזְקֵאל | iejezkel | Ἰεζεκιήλ | Ezequiel | Ezequiel | Ezekiel | Ez, Eze, Ezequiel |
-| הושע | הוֹשֵׁעַ | hosea | Ὡσηέ | Oseas | Oseas | Hosea | Os, Ose, Oseas |
-| יואל | יוֹאֵל | io'el | Ἰωήλ | Joel | Joel | Joel | Jl, Joel |
-| עמוס | עָמוֹס | amos | Ἀμώς | Amós | Amós | Amos | Am, Amos |
-| עובדיה | עֹבַדְיָה | ovadiah | Ἀβδιού | Abdías | Abdías | Obadiah | Abd, Abdías |
-| יונה | יוֹנָה | ionah | Ἰωνᾶς | Jonás | Jonás | Jonah | Jon, Jonás |
-| מיכה | מִיכָה | mijah | Μιχαίας | Miqueas | Miqueas | Micah | Miq, Miqueas |
-| נחום | נַחוּם | najum | Ναούμ | Nahúm | Nahúm | Nahum | Nah, Nahúm |
-| חבקוק | חַבַּקּוּק | jabakuk | Ἀμβακούμ | Habacuc | Habacuc | Habakkuk | Hab, Habacuc |
-| צפניה | צְפַנְיָה | tsefaniah | Σοφονίας | Sofonías | Sofonías | Zephaniah | Sof, Sofonías |
-| חגי | חַגַּי | jaggai | Ἀγγαῖος | Ageo | Hageo | Haggai | Hag, Hageo |
-| זכריה | זְכַרְיָה | zejariah | Ζαχαρίας | Zacarías | Zacarías | Zechariah | Zac, Zacarías |
-| מלאכי | מַלְאָכִי | mal'aji | Μαλαχίας | Malaquías | Malaquías | Malachi | Mal, Malaquías |
+| ישעיהו | יְשַׁעְיָהוּ | ieshaiahu | Ἠσαΐας | Ēsaias | Isaías | Isaiah | Is, Isa, Isaías |
+| ירמיהו | יִרְמְיָהוּ | irmeiahu | Ἰερεμίας | Ieremias | Jeremías | Jeremiah | Jr, Jer, Jeremías |
+| יחזקאל | יְחֶזְקֵאל | iejezkel | Ἰεζεκιήλ | Iezekiēl | Ezequiel | Ezekiel | Ez, Eze, Ezequiel |
+| הושע | הוֹשֵׁעַ | hosea | Ὡσηέ | Hōsēe | Oseas | Hosea | Os, Ose, Oseas |
+| יואל | יוֹאֵל | io'el | Ἰωήλ | Iōēl | Joel | Joel | Jl, Joel |
+| עמוס | עָמוֹס | amos | Ἀμώς | Amōs | Amós | Amos | Am, Amos |
+| עובדיה | עֹבַדְיָה | ovadiah | Ἀβδιού | Abdious | Abdías | Obadiah | Abd, Abdías |
+| יונה | יוֹנָה | ionah | Ἰωνᾶς | Iōnas | Jonás | Jonah | Jon, Jonás |
+| מיכה | מִיכָה | mijah | Μιχαίας | Michaias | Miqueas | Micah | Miq, Miqueas |
+| נחום | נַחוּם | najum | Ναούμ | Naoum | Nahúm | Nahum | Nah, Nahúm |
+| חבקוק | חַבַּקּוּק | jabakuk | Ἀμβακούμ | Ambakoum | Habacuc | Habakkuk | Hab, Habacuc |
+| צפניה | צְפַנְיָה | tsefaniah | Σοφονίας | Sophonias | Sofonías | Zephaniah | Sof, Sofonías |
+| חגי | חַגַּי | jaggai | Ἀγγαῖος | Angaios | Hageo | Haggai | Hag, Hageo |
+| זכריה | זְכַרְיָה | zejariah | Ζαχαρίας | Zacharias | Zacarías | Zechariah | Zac, Zacarías |
+| מלאכי | מַלְאָכִי | mal'aji | Μαλαχίας | Malachias | Malaquías | Malachi | Mal, Malaquías |
 
 ### Ketuvim (Escritos)
 
@@ -59,13 +59,13 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 
 | Hebreo Sin Nikud | Hebreo Con Nikud | Transliteración | Griego | Transliteración Griega | Español | Inglés | Abreviaturas |
 |------------------|------------------|-----------------|--------|-------------------------|---------|--------|--------------|
-| תהלים | תְּהִלִּים | tehilim | Ψαλμοί | Salmos | Salmos | Psalms | Sal, Salmos |
-| משלי | מִשְׁלֵי | mishlei | Παροιμίαι | Proverbios | Proverbios | Proverbs | Pr, Prov, Proverbios |
+| תהלים | תְּהִלִּים | tehilim | Ψαλμοί | Psalmoi | Salmos | Psalms | Sal, Salmos |
+| משלי | מִשְׁלֵי | mishlei | Παροιμίαι | Paroimiai | Proverbios | Proverbs | Pr, Prov, Proverbios |
 | איוב | אִיּוֹב | iyov | Ἰώβ | Job | Job | Job | Job, Job |
-| שיר השירים | שִׁיר הַשִּׁירִים | shir hashirim | ᾎσμα ᾀσμάτων | Cantar de Cantares | Cantares | Song of Solomon | Cant, Cantares |
-| קהלת | קֹהֶלֶת | kohelet | Ἐκκλησιαστής | Eclesiastés | Eclesiastés | Ecclesiastes | Ec, Eclesiastés |
+| שיר השירים | שִׁיר הַשִּׁירִים | shir hashirim | ᾎσμα ᾀσμάτων | Asma Asmatōn | Cantares | Song of Solomon | Cant, Cantares |
+| קהלת | קֹהֶלֶת | kohelet | Ἐκκλησιαστής | Ekklēsiastēs | Eclesiastés | Ecclesiastes | Ec, Eclesiastés |
 | רות | רוּת | rut | Ῥούθ | Rut | Rut | Ruth | Rut, Ruth |
-| איכה | אֵיכָה | eijah | Θρῆνοι | Lamentaciones | Lamentaciones | Lamentations | Lam, Lamentaciones |
+| איכה | אֵיכָה | eijah | Θρῆνοι | Thrēnoi | Lamentaciones | Lamentations | Lam, Lamentaciones |
 | אסתר | אֶסְתֵּר | ester | Ἐσθήρ | Ester | Ester | Esther | Est, Ester |
 
 #### Históricos
@@ -73,9 +73,9 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 | Hebreo Sin Nikud | Hebreo Con Nikud | Transliteración | Griego | Transliteración Griega | Español | Inglés | Abreviaturas |
 |------------------|------------------|-----------------|--------|-------------------------|---------|--------|--------------|
 | דניאל | דָּנִיֵּאל | dani'el | Δανιήλ | Daniel | Daniel | Daniel | Dn, Dan, Daniel |
-| עזרא ונחמיה | עֶזְרָא וּנְחֶמְיָה | ezra-nechemyah | Ἔσδρας Αʹ καὶ Βʹ | Esdras 1 y 2 | Esdras-Nehemías | Ezra-Nehemiah | Esd-Neh, Esdras-Nehemías |
-| דברי הימים א | דִּבְרֵי הַיָּמִים א | divrei hayamim alef | Παραλειπομένων Αʹ | Paralipómenos 1 | 1 Crónicas | 1 Chronicles | 1 Cr, 1 Crónicas |
-| דברי הימים ב | דִּבְרֵי הַיָּמִים ב | divrei hayamim bet | Παραλειπομένων Βʹ | Paralipómenos 2 | 2 Crónicas | 2 Chronicles | 2 Cr, 2 Crónicas |
+| עזרא ונחמיה | עֶזְרָא וּנְחֶמְיָה | ezra-nejemyah | Ἔσδρας Αʹ καὶ Βʹ | Esdras A kai B | Esdras-Nehemías | Ezra-Nehemiah | Esd-Neh, Esdras-Nehemías |
+| דברי הימים א | דִּבְרֵי הַיָּמִים א | divrei hayamim alef | Παραλειπομένων Αʹ | Paralipomenōn A | 1 Crónicas | 1 Chronicles | 1 Cr, 1 Crónicas |
+| דברי הימים ב | דִּבְרֵי הַיָּמִים ב | divrei hayamim bet | Παραλειπομένων Βʹ | Paralipomenōn B | 2 Crónicas | 2 Chronicles | 2 Cr, 2 Crónicas |
 
 ## Besorah
 

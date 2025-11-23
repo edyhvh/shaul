@@ -87,7 +87,14 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             }
           }
         })
-        .filter((page) => page !== undefined) ?? []
+        .filter((page) => page !== undefined)
+        .filter((page) => {
+          // Filter out placeholder files that start with _folder.md
+          if (page.filePath && page.filePath.endsWith("_folder.md")) {
+            return false
+          }
+          return true
+        }) ?? []
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
     const classes = cssClasses.join(" ")
     const listProps = {

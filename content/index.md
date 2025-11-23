@@ -14,7 +14,7 @@ Podemos ver en las cartas el enviado **Shaul**, también conocido como Pablo, co
 
 ## Objetivo principal del proyecto
 
-El objetivo de Shaul, el apóstol, era conocer y enseñar a otros quien es el Mesías y por lo tanto vamos a intentar acercarnos a entender como pensaba no sólo él sino los otros apóstoles acerca de las escrituras, para que luego si Elohim lo permite en nuestro caminar, podamos incluso hacer drash (דְּרַשׁ) del mismo modo que ellos lo hacían, siempre intentando tener la mirada fija en YESHUA HA'MASHIAJ nuestro señor y salvador.
+El objetivo de Shaul, el apóstol, era conocer y enseñar a otros quien es el Mesías y por lo tanto vamos a intentar acercarnos a entender como pensaba no sólo él sino los otros apóstoles acerca de las escrituras, para que luego si Elohim lo permite en nuestro caminar, podamos incluso hacer drash `דְּרַשׁ` del mismo modo que ellos lo hacían, siempre intentando tener la mirada fija en YESHUA HA'MASHIAJ nuestro señor y salvador.
 
 **SHALOM**
 

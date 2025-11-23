@@ -135,19 +135,22 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 
 | Sección | Libros | Total de Capítulos | Porcentaje del Tanaj |
 |---------|--------|-------------------|----------------------|
-| Torá | 5 | 187 | 20.3% |
-| Nevi'im | 8 | 257 | 27.8% |
-| Ketuvim | 11 | 485 | 52.6% |
+| Torá | 5 | 187 | 20.8% |
+| Nevi'im | 8 | 257 | 28.5% |
+| Ketuvim | 11 | 485 | 53.8% |
 | **Total Tanaj** | **24** | **929** | **100%** |
 
 | Sección | Libros | Total de Capítulos | Porcentaje de la Besorah |
 |---------|--------|-------------------|---------------------------|
-| Evangelios | 4 | 89 | 27.6% |
-| Hechos | 1 | 28 | 8.7% |
-| Cartas de Pablo | 13 | 87 | 27.0% |
-| Cartas de apóstoles | 8 | 34 | 10.6% |
-| Sodot | 1 | 22 | 6.8% |
+| Evangelios | 4 | 89 | 34.2% |
+| Hechos | 1 | 28 | 10.8% |
+| Cartas de Pablo | 13 | 87 | 33.5% |
+| Cartas de apóstoles | 8 | 34 | 13.1% |
+| Sodot | 1 | 22 | 8.5% |
 | **Total Besorah** | **27** | **260** | **100%** |
+
+> [!note]
+> **Total Biblia:** 51 libros con 1189 capítulos
 
 ## 💡 Notas Importantes
 
@@ -159,3 +162,12 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 - **Abreviaturas**: Separadas por coma, incluyen variantes comunes
 - **Nombres hebreos**: Basados en la tradición judía del Tanaj
 - **Nombres griegos**: Para el Tanaj usa la Septuaginta, para la Besorah los originales
+- **Conteo judío**: Las estadísticas usan el canon judío (24 libros en Tanaj, 51 en Biblia)
+- **Listado individual**: Los libros se muestran separados para facilitar referencias (ej: 1 Samuel, 2 Samuel)
+
+**Notas sobre el conteo judío:**
+- **Sefer Shemuel** שְׁמוּאֵל shemu'el (Samuel): Se cuenta como 1 libro (combina 1 y 2 Samuel)
+- **Sefer Melajim** מְלָכִים melajim (Reyes): Se cuenta como 1 libro (combina 1 y 2 Reyes)
+- **Trei Asar** תְּרֵי עָשָׂר trei asar (Los Doce): Los 12 profetas menores se cuentan como 1 libro
+- **Ezra veNechemya** עֶזְרָא וּנְחֶמְיָה ezra venechemya (Esdras-Nehemías): Se cuenta como 1 libro
+- **Divrei Hayamim** דִּבְרֵי הַיָּמִים divrei hayamim (Crónicas): Se cuenta como 1 libro (combina 1 y 2 Crónicas)

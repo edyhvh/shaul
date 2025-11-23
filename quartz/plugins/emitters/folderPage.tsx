@@ -80,6 +80,10 @@ function computeFolderInfo(
 
   // Update with actual content if available
   for (const [tree, file] of content) {
+    // Skip _folder.md files - they should not be used as folder content
+    if (file.data.filePath && file.data.filePath.endsWith("_folder.md")) {
+      continue
+    }
     const slug = stripSlashes(simplifySlug(file.data.slug!)) as SimpleSlug
     if (folders.has(slug)) {
       folderInfo[slug] = [tree, file]

@@ -83,6 +83,11 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
           containsIndex = true
         }
 
+        // Skip _folder.md files - they should not be processed as content pages
+        if (file.data.filePath && file.data.filePath.endsWith("_folder.md")) {
+          continue
+        }
+
         // only process home page, non-tag pages, and non-index pages
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)
@@ -112,6 +117,12 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         if (!changedSlugs.has(slug)) continue
+        
+        // Skip _folder.md files - they should not be processed as content pages
+        if (file.data.filePath && file.data.filePath.endsWith("_folder.md")) {
+          continue
+        }
+        
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
 
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)

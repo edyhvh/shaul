@@ -46,7 +46,13 @@ const defaultOptions: Options = {
       return -1
     }
   },
-  filterFn: (node) => node.slugSegment !== "tags",
+  filterFn: (node) => {
+    // Exclude tags folder
+    if (node.slugSegment === "tags") return false
+    // Exclude placeholder files that end with _folder.md
+    if (node.data?.filePath && node.data.filePath.endsWith("_folder.md")) return false
+    return true
+  },
   order: ["filter", "map", "sort"],
 }
 

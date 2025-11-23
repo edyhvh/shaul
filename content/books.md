@@ -149,8 +149,6 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 | Sodot | 1 | 22 | 6.8% |
 | **Total Besorah** | **27** | **260** | **100%** |
 
-| **Total Biblia** | **51 libros** | **1189 capítulos** | |
-
 ## 💡 Notas Importantes
 
 - **Hebreo sin nikud**: Texto consonántico básico

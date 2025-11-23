@@ -70,10 +70,12 @@ content/
 
 ### Encabezados Jerárquicos
 
+```markdown
 # Título Principal (H1 - solo uno por nota)
 ## Sección Mayor (H2)
 ### Subsección (H3)
 #### Detalle (H4)
+```
 
 **Ejemplo real:**
 
@@ -84,10 +86,12 @@ content/
 
 ### Texto Especial
 
+```markdown
 **Texto en negrita** - énfasis fuerte
 *Texto en cursiva* - énfasis suave
 ==Texto resaltado== - conceptos importantes
 `código inline` - términos técnicos o hebreos
+```
 
 **Ejemplos reales:**
 En [[bereshit_1_1]], vemos que **Elohim** creó los cielos y la tierra. Este pasaje nos enseña que Dios es el *Creador soberano*. El concepto de ==creación ex nihilo== es fundamental. La palabra hebrea `ברא` (bara) significa "crear de la nada".
@@ -129,10 +133,12 @@ En [[bereshit_1_1]], vemos que **Elohim** creó los cielos y la tierra. Este pas
 
 ### Tablas
 
+```markdown
 | Referencia | Tema | Conclusión |
 |------------|------|------------|
 | Romanos 3:21-26 | Justicia | Por fe en Yeshúa |
 | Efesios 2:8-9 | Salvación | Gracia, no obras |
+```
 
 **Ejemplo real:**
 

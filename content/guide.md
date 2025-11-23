@@ -188,5 +188,3 @@ En [[bereshit_1_1]], vemos que **Elohim** creó los cielos y la tierra. Este pas
 
 > [!tip]
 Recuerda: Las notas son herramientas para profundizar en el conocimiento de las Escrituras y acercarte más a Yeshúa HaMashiaj.
-
-**Shalom**

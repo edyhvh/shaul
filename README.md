@@ -56,7 +56,7 @@ npm run build
 The generated files will be in the `public/` directory.
 
 
-[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/edyhvh/shaul?style=for-the-badge)](https://shaul.vercel.app)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/shaul?style=for-the-badge)
 
 ## Acknowledgments
 

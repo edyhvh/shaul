@@ -1,27 +1,21 @@
-# Shaul
+# shaul
 **https://shaul.vercel.app**
 
-A digital project to compile explanations and commentaries on the scriptures, inspired by the apostle Shaul (Paul).
+A digital project to compile explanations and commentaries on the scriptures, inspired by what the apostles did.
 
 ## About the Project
 
-Shaul is a digital platform that seeks to organize and share the understanding we receive from Elohim about the scriptures. The goal is to understand how the apostles thought about the scriptures, so that, if Elohim permits, we can make drash `דְּרַשׁ` in the same way they did, always keeping our eyes fixed on YESHUA HA'MASHIAJ.
+shaul is a digital platform that seeks to organize and share the understanding we receive from Elohim about the scriptures. The goal is to understand how the apostles thought about the scriptures, so that, if Elohim permits, we can make drash `דְּרַשׁ` in the same way they did, always keeping our eyes fixed on YESHUA HA'MASHIAJ.
 
 ## Main Objective
 
-The objective of Shaul, the apostle, was to know and teach others who the Messiah is. This project seeks to follow that same purpose: to understand and share knowledge about the scriptures through the Ruaj, just as He who is the Word itself (Yeshua) did.
+The objective of the apostles, was to know and teach others who the Messiah is. This project seeks to follow that same purpose: to understand and share knowledge about the scriptures through the Ruaj, just as He who is the Word itself (Yeshua) did.
 
 ## Quick Start
 
-### Requirements
+### Getting Started with shaul
 
-- Node.js v22 or higher
-- npm v10.9.2 or higher
-- Git
-
-### Getting Started with Shaul
-
-You can use Shaul as a base for your own project.
+You can use shaul as a base for your own project.
 
 ```bash
 git clone https://github.com/edyhvh/shaul.git

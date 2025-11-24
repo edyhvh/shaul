@@ -1,4 +1,5 @@
 # Shaul
+**https://shaul.vercel.app**
 
 A digital project to compile explanations and commentaries on the scriptures, inspired by the apostle Shaul (Paul).
 
@@ -56,14 +57,16 @@ npm run build
 The generated files will be in the `public/` directory.
 
 
-![Vercel Deploy](https://deploy-badge.vercel.app/vercel/shaul?style=for-the-badge)
 
-## Acknowledgments
+
+## Acknowledgments 
 
 Created with [Quartz v4.5.2](https://quartz.jzhao.xyz/) © 2025
 
 - [Quartz Discord Community](https://discord.gg/cRFFHYye7t)
 - [Quartz GitHub Repository](https://github.com/jackyzha0/quartz)
+
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/shaul?style=for-the-badge)](https://vercel.com/new)
 
 ---
 

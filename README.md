@@ -18,10 +18,12 @@ The objective of Shaul, the apostle, was to know and teach others who the Messia
 - npm v10.9.2 or higher
 - Git
 
-### Clone the Repository
+### Getting Started with Shaul
+
+You can use Shaul as a base for your own project.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/edyhvh/shaul.git
 cd shaul
 ```
 
@@ -53,35 +55,8 @@ npm run build
 
 The generated files will be in the `public/` directory.
 
-### Deploy to Vercel
 
-1. **Create a Vercel account** at [vercel.com](https://vercel.com) if you don't have one
-
-2. **Install Vercel CLI** (optional, for command line deployment):
-   ```bash
-   npm i -g vercel
-   ```
-
-3. **Deploy via Vercel Dashboard**:
-   - Go to [vercel.com/new](https://vercel.com/new)
-   - Import your GitHub repository
-   - Vercel will automatically detect the project settings
-   - The build command is already configured: `npm run vercel-build`
-   - The output directory is `public`
-   - Click "Deploy"
-
-4. **Deploy via CLI** (alternative):
-   ```bash
-   vercel
-   ```
-   Follow the prompts to link your project and deploy.
-
-5. **Configure your domain** (optional):
-   - In your Vercel project settings, go to "Domains"
-   - Add your custom domain
-   - Update the `baseUrl` in `quartz.config.ts` to match your domain
-
-Your site will be live and automatically rebuild on every push to your main branch.
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/edyhvh/shaul?style=for-the-badge)](https://shaul.vercel.app)
 
 ## Acknowledgments
 

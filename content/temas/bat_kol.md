@@ -68,3 +68,6 @@ translation: NBLA
 
 1. [Qué es la bat kol](https://www.jewishencyclopedia.com/articles/2651-bat-kol)
 2. [Qué es derash o drash](https://jewishencyclopedia.com/articles/3263-bible-exegesis#anchor2)
+
+# créditos
+[# 2 Pedro (parte 5) Cap 1E](https://www.youtube.com/live/jHd1MqzfcNo?si=n9xNtiGFJ-6sCFJH)

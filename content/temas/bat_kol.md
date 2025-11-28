@@ -5,7 +5,11 @@ tags:
   - bat_kol
   - testimonio
   - "#Hijo"
+<<<<<<< HEAD
   - ben
+=======
+  - ben
+>>>>>>> origin/notes_9_0
 translation: NBLA
 ---
 # versículos en la tevilah
@@ -55,6 +59,7 @@ translation: NBLA
 	- `avdi (עבדי)` mi siervo
 	- `asher bajarti (אשר בחרתי)` a quien yo he escogido
 	- `yedidi (ידידי)` mi Amado
+<<<<<<< HEAD
 	- `ratzetah nafshi (רצתה נפשי)` en quien mi *nefesh* se reconcilia #korintim_bet_5_18-19
 - #devarim_18_15 : a Él escucharéis
 	- `elav tishmaún (אליו תשמעון)`
@@ -64,6 +69,11 @@ translation: NBLA
 >[!important] 
 >Hijo = Siervo
 
+=======
+	- ratzetah nafshi `(רצתה נפשי)` en quien mi *nefesh* se complace
+- #devarim_18_15 : a Él escucharéis
+	- elav tishmaún `(אליו תשמעון)` 
+>>>>>>> origin/notes_9_0
 
 # para quién es la bat kol, es decir cuál es su propósito?
 
@@ -73,4 +83,11 @@ translation: NBLA
 # contexto
 
 1. [Qué es la bat kol](https://www.jewishencyclopedia.com/articles/2651-bat-kol)
+<<<<<<< HEAD
 2. [Qué es derash o drash](https://jewishencyclopedia.com/articles/3263-bible-exegesis#anchor2)
+=======
+2. [Qué es derash o drash](https://jewishencyclopedia.com/articles/3263-bible-exegesis#anchor2)
+
+# créditos
+[# 2 Pedro (parte 5) Cap 1E](https://www.youtube.com/live/jHd1MqzfcNo?si=n9xNtiGFJ-6sCFJH)
+>>>>>>> origin/notes_9_0

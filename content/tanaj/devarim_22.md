@@ -8,8 +8,8 @@ tags:
 ---
 # #tzitzit
 
-## texto
-Te harás flecos sobre los cuatro bordes del manto con que te cubres #devarim_22_12 
+## #devarim_22_12 
+Te harás flecos sobre los cuatro bordes del manto con que te cubres 
 - la palabra importante acá es **manto con que te cubres**
 
 ## significado de #hediot 

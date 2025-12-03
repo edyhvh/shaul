@@ -9,7 +9,7 @@ translation:
 
 - #irat_YHVH : es saber que YHVH, en su santidad, que no tolera el pecado pero al mismo tiempo su jesed es para siempre, nos está mirando, es terror y amor al mismo tiempo, es entendimiento de su santidad → יראת יהוה
 	- podría definirse también como su emunáh?
-- #musar : disciplina, reprensación de Elohim, instrucción de su torá → מוסר
+- #musar : disciplina, reprensión de Elohim, instrucción de su torá → מוסר
 - #jojma : se recibe de otros, la materia prima, torá → חכמה
 - #biná : entendimiento inicial → בינה
 - #tevuná: inteligencia, entendimiento profundo, la capacidad de conectar, ensamblar, aplicar la materia prima → תבונה

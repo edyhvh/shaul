@@ -1,3 +1,4 @@
+*(incompleto y desorganizado)*
 Junio 3ro es el ultimo sacerdote del linaje de Aharon, estaban siendo muy influenciados por la cultura griega (seleucidas) 
 
   

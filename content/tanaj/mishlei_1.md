@@ -10,7 +10,7 @@ translation: "[BTX4]"
  **...Para comprender las palabras de inteligencia**
 - #daat **`דעת`** , traducido en este texto como comprender, es un conocimiento empírico, vivencial
 - viene de yadá **`ידע`**, es decir usado tambien cuando un esposo conocia a su esposa, intimamente #bereshit_4_1 #hoshea_2_22, interesante que tambien se puede usar en conocer el intimamente el mal, #bereshit_19_8 #shoftim_19_25
-# #misheli_1_3
+# #mishlei_1_3
 **Para recibir el consejo *musar `מוסר`* de**:
 - **prudencia:**  #haskel **`השכל`**
 - **justicia:** #tzedek **`צדק`**

@@ -1,5 +1,5 @@
 ---
-title: bereshit_14
+title: bereshit 14
 date: 2025-11-30
 tags:
   - maaser

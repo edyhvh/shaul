@@ -35,4 +35,4 @@ santos serán para su Elohim...
 - ishéh, fuego
 
 # #vaikra_21_9
-- prostituyéndose, aqui es exclusivamente un acto de prostitución sino cualquier cosa relacionada a inmoralidad sexual.
+- prostituyéndose, aqui no es exclusivamente un acto de prostitución sino cualquier cosa relacionada a inmoralidad sexual.
